@@ -1,0 +1,16 @@
+streamlit
+boto3
+PyPDF2
+python-pptx
+python-docx
+langdetect
+pillow
+pandas
+numpy
+python-dotenv
+streamlit-option-menu
+plotly
+matplotlib
+seaborn
+
+#awscli

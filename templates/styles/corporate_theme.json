@@ -1,0 +1,73 @@
+{
+  "theme": {
+    "name": "Corporate Logistics Theme",
+    "colors": {
+      "primary": "#003087",
+      "secondary": "#FFFFFF",
+      "accent": "#FFA500",
+      "text": "#404040",
+      "footer": "#808080"
+    },
+    "fonts": {
+      "title": {
+        "name": "Calibri",
+        "size": 44,
+        "bold": true
+      },
+      "subtitle": {
+        "name": "Calibri",
+        "size": 24,
+        "bold": false
+      },
+      "content": {
+        "name": "Calibri",
+        "size": 18,
+        "bold": false
+      },
+      "footer": {
+        "name": "Calibri",
+        "size": 10,
+        "bold": false
+      }
+    },
+    "slide_layouts": {
+      "title_slide": {
+        "title_position": {
+          "left": 0.5,
+          "top": 1.0,
+          "width": 9.0,
+          "height": 1.5
+        },
+        "subtitle_position": {
+          "left": 0.5,
+          "top": 3.0,
+          "width": 9.0,
+          "height": 1.0
+        }
+      },
+      "content_slide": {
+        "title_position": {
+          "left": 0.5,
+          "top": 0.5,
+          "width": 9.0,
+          "height": 1.0
+        },
+        "content_position": {
+          "left": 0.5,
+          "top": 1.5,
+          "width": 9.0,
+          "height": 5.0
+        }
+      }
+    },
+    "footer": {
+      "text": "{company_name} | {date} | Confidential",
+      "position": {
+        "left": 0.5,
+        "top": 7.0,
+        "width": 9.0,
+        "height": 0.5
+      }
+    }
+  }
+}
